@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        My Essay On HTML
+    </title>
+</head>
+<body>
+    <h1>ESSAY ON HTML</h1>
+    <h3>(written by AFTAB AHMED)</h3>
+    <br/>
+    <hr/>
+    <P>Today my topic is simple that is essay on HTML</P>
+    
+    <P>HTML stands for Hypertext Markup Language</P>
+    
+    <p>It is not an programming language like python, javascript etc.</p>
+    <p>Its an markup language which is used to feed tags and consist of an opening and closing brackets</p>
+</body>
+</html>
